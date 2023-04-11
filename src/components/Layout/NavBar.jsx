@@ -29,11 +29,11 @@ const NavBar = () => {
         </div>
       </div>
 
-      <img
+      {/* <img
         src="src\assets\meals.jpg"
-        className="bg-cover bg-fixed min-w-full -z-10 absolute"
+        className="absolute -z-20 bg-auto md:bg-fixed md:min-w-full md:bg-cover "
         alt="bg image"
-      ></img>
+      ></img> */}
     </>
   );
 };
