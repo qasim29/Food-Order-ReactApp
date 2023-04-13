@@ -1,6 +1,6 @@
 import React from 'react'
-import NavBar from "./src/components/Layout/NavBar"
-import Meals from './src/components/Meals/meals';
+import NavBar from "./components/Layout/NavBar"
+import Meals from './components/Meals/meals';
 
 function App() {
   return (
